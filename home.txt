@@ -1,0 +1,6 @@
+syntax.txt
+error.txt
+google.txt
+she had a breakfast
+there is no local remove changes
+apple
